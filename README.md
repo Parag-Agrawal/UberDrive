@@ -4,3 +4,4 @@ Along with that, there is a python file which has some questions related to the 
 Try opening the python file with Jupyter Notebook.
 Incase you have recently downloaded Jupyter, and cant use the libraries, go to command promt and install all the libraries.
 Major libraried used are numpy, pandas, matplotlib, seaborn.
+Connect me on LinkedIn incase of any doubts. https://www.linkedin.com/in/paragagrawal31/
